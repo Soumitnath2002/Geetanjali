@@ -1,0 +1,28 @@
+body {
+  background-color: #FCE2DB;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-top-color: #B93160;
+  width: 1.6%;
+  border-width: thick;
+  height: 10px
+}
+
+img {
+  height: 280px;
+  width: 280px;
+}
+h1 {
+  color: #B93160;
+  font-family: Brush Script MT;
+  font-size: 100px;
+}
+h4 {
+  color: #B93160;
+}
+h2 {
+  color: #B93160;
+}
